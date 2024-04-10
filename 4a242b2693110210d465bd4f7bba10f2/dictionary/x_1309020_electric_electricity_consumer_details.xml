@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c7b7a3e293910210d465bd4f7bba10d8" label="Electricity Consumer Details" max_length="40" name="x_1309020_electric_electricity_consumer_details" type="collection">
+        <element label="ADDRESS" max_length="40" name="address" type="string"/>
+        <element label="AREA" max_length="40" name="area" type="string"/>
+        <element label="CAT" max_length="40" name="cat" type="string"/>
+        <element label="CYCLE" max_length="2" name="cycle" type="string"/>
+        <element label="ERO" max_length="40" name="ero" type="integer"/>
+        <element label="GRP" max_length="1" name="grp" type="string"/>
+        <element label="IRDA VERSION" max_length="40" name="irda_version" type="integer"/>
+        <element label="LOAD IN KHW" max_length="40" name="load_in_khw" type="integer"/>
+        <element label="NAME" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="PHASE" max_length="1" name="phase" type="integer"/>
+        <element label="POLE NO" max_length="40" name="pole_no" type="string"/>
+        <element label="SBM ID" max_length="40" name="sbm_id" type="string"/>
+        <element label="SCNO" max_length="40" name="scno" type="string"/>
+        <element label="SEC" max_length="40" name="sec" type="integer"/>
+        <element label="STR" max_length="40" name="str" type="string"/>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="USCNO" max_length="40" name="uscno" read_only="true" type="string" use_dynamic_default="true"/>
+    </element>
+</database>

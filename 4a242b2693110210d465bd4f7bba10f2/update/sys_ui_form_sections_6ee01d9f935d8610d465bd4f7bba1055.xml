@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6ee01d9f935d8610d465bd4f7bba1055" sys_domain="global" table="x_1309020_electric_electricity_bill" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 15:59:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2e01d9f935d8610d465bd4f7bba1059</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1309020_electric_electricity_bill" name="x_1309020_electric_electricity_bill" sys_domain="global" view="Default view">6ee01d9f935d8610d465bd4f7bba1055</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1309020_electric_electricity_bill" sys_domain="global" view="Default view">99bc63ea93d10210d465bd4f7bba1002</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 15:59:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 15:59:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aee01d9f935d8610d465bd4f7bba1059</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1309020_electric_electricity_bill" name="x_1309020_electric_electricity_bill" sys_domain="global" view="Default view">6ee01d9f935d8610d465bd4f7bba1055</sys_ui_form>
+            <sys_ui_section caption="Bill Details" display_value="Bill Details" name="x_1309020_electric_electricity_bill" sys_domain="global" view="Default view">e2e0d99f935d8610d465bd4f7bba10a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 15:59:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 15:59:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ee01d9f935d8610d465bd4f7bba105d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1309020_electric_electricity_bill" name="x_1309020_electric_electricity_bill" sys_domain="global" view="Default view">6ee01d9f935d8610d465bd4f7bba1055</sys_ui_form>
+            <sys_ui_section caption="Bill charges" display_value="Bill charges" name="x_1309020_electric_electricity_bill" sys_domain="global" view="Default view">aae01d9f935d8610d465bd4f7bba1054</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 15:59:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 15:59:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bae01d9f935d8610d465bd4f7bba109f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1309020_electric_electricity_bill" name="x_1309020_electric_electricity_bill" sys_domain="global" view="Default view">6ee01d9f935d8610d465bd4f7bba1055</sys_ui_form>
+            <sys_ui_section caption="Payment Details" display_value="Payment Details" name="x_1309020_electric_electricity_bill" sys_domain="global" view="Default view">a2e01d9f935d8610d465bd4f7bba1055</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 15:59:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1309020_electric_electricity_bill</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-06 15:59:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ee01d9f935d8610d465bd4f7bba1055</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1309020_electric_electricity_bill</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Electricity bill" source="x_1309020_electric">4a242b2693110210d465bd4f7bba10f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Electricity bill">4a242b2693110210d465bd4f7bba10f2</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6ee01d9f935d8610d465bd4f7bba1055</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-06 15:59:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

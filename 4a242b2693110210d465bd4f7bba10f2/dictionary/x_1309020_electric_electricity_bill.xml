@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b77a632293d10210d465bd4f7bba1017" label="ELECTRICITY BILL" max_length="40" name="x_1309020_electric_electricity_bill" type="collection">
+        <element label="ADDI CHARGES" max_length="40" name="addi_charges" type="integer"/>
+        <element default="javascript:getNextObjNumberPadded();" dynamic_default_value="fdcb83a85f220100a9ad2572f2b4773c" label="BILL NO" max_length="40" name="bill_no" type="string" use_dynamic_default="true"/>
+        <element label="CUSTOMER CHARGES" max_length="40" name="customer_charges" type="integer"/>
+        <element label="DAYS" max_length="40" name="days" type="integer"/>
+        <element label="DISC DATE" max_length="40" name="disc_date" type="glide_date"/>
+        <element label="DUE DATE" max_length="40" name="due_date" type="glide_date"/>
+        <element label="ED" max_length="40" name="ed" type="integer"/>
+        <element label="ED INT" max_length="40" name="ed_int" type="integer"/>
+        <element label="ENERGY CHARGES" max_length="40" name="energy_charges" type="integer"/>
+        <element label="FIXED CHARGES" max_length="40" name="fixed_charges" type="integer"/>
+        <element label="LAST PAID" max_length="40" name="last_paid" type="glide_date"/>
+        <element label="LAST PAID AMOUNT" max_length="40" name="last_paid_amount" type="integer"/>
+        <element label="PRESENT BILL DATE" max_length="40" name="present_bill_date" type="integer"/>
+        <element label="PRESENT BILL READING" max_length="40" name="present_bill_reading" type="integer"/>
+        <element label="PREVIOUS BILL DATE" max_length="40" name="previous_bill_date" type="glide_date"/>
+        <element label="PREVIOUS BILL READING" max_length="40" name="previous_bill_reading" type="glide_date"/>
+        <element label="SUBSIDY AMOUNT" max_length="40" name="subsidy_amount" type="integer"/>
+        <element label="SUBSIDY/UNIT" max_length="40" name="subsidy_unit" type="integer"/>
+        <element label="TOTAL AMOUNT" max_length="40" name="total_amount" type="integer"/>
+        <element label="UNITS" max_length="40" name="units" type="integer"/>
+        <element label="USCNO" max_length="32" name="uscno" reference="x_1309020_electric_electricity_consumer_details" type="reference"/>
+        <index name="index">
+            <element name="uscno"/>
+        </index>
+    </element>
+</database>
