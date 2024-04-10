@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-04 19:24:53</sys_created_on>
+        <sys_id>41acabaa93d10210d465bd4f7bba105a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1309020_electric_electricity_bill.x_1309020_electric.electricity_bill_user</sys_name>
+        <sys_package display_value="Electricity bill" source="x_1309020_electric">4a242b2693110210d465bd4f7bba10f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Electricity bill">4a242b2693110210d465bd4f7bba10f2</sys_scope>
+        <sys_security_acl display_value="x_1309020_electric_electricity_bill">cdacabaa93d10210d465bd4f7bba1056</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_41acabaa93d10210d465bd4f7bba105a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-04 19:24:53</sys_updated_on>
+        <sys_user_role display_value="x_1309020_electric.electricity_bill_user" name="x_1309020_electric.electricity_bill_user">d4aceb2e93910210d465bd4f7bba101a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

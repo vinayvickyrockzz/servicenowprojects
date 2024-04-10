@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="28fcafaa93d10210d465bd4f7bba1070" label="ELECTRICITY PAYMENT RECEIPT" max_length="40" name="x_1309020_electric_electricity_payment_receipt" type="collection">
+        <element label="AMOUNT IN WORDS" max_length="40" name="amount_in_words" type="string"/>
+        <element label="BALANCE DUE" max_length="40" name="balance_due" type="integer"/>
+        <element label="BILL AMOUNT" max_length="40" name="bill_amount" type="integer"/>
+        <element label="BILL NO" max_length="32" name="bill_no" reference="x_1309020_electric_electricity_bill" type="reference"/>
+        <element label="DATE" max_length="40" name="date" type="glide_date"/>
+        <element label="PAID AMOUNT" max_length="40" name="paid_amount" type="integer"/>
+        <element label="RECEIPT NUMBER" max_length="40" name="receipt_number" type="string"/>
+        <element label="RECEIVED PERSON DEPARTMENT" max_length="40" name="received_person_department" type="string"/>
+        <element label="RECEIVED PERSON NAME" max_length="40" name="received_person_name" type="string"/>
+        <index name="index">
+            <element name="bill_no"/>
+        </index>
+    </element>
+</database>
